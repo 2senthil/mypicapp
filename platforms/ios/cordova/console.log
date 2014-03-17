@@ -1,0 +1,26 @@
+2014-03-16 13:57:09.766 PictureFeed[44228:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-16 13:57:09.778 PictureFeed[44228:80b] Unlimited access to network resources
+2014-03-16 13:57:09.799 PictureFeed[44228:80b] [CDVTimer][file] 0.698984ms
+2014-03-16 13:57:09.800 PictureFeed[44228:80b] [CDVTimer][TotalPluginStartup] 1.205981ms
+2014-03-16 13:57:10.014 PictureFeed[44228:80b] Resetting plugins due to page load.
+2014-03-16 13:57:10.252 PictureFeed[44228:80b] Finished load of: file:///Users/senthil/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/2B0C883B-2933-4719-AE5D-B4EC1C935E4E/PictureFeed.app/www/index.html
+2014-03-16 13:57:17.761 PictureFeed[44228:80b] Camera.getPicture: source type 1 not available.
+2014-03-16 13:57:20.413 PictureFeed[44228:80b] THREAD WARNING: ['Camera'] took '2653.830078' ms. Plugin should use a background thread.
+2014-03-16 13:57:21.071 PictureFeed[44228:80b] Camera.getPicture: source type 1 not available.
+2014-03-16 13:57:23.095 PictureFeed[44228:80b] THREAD WARNING: ['Camera'] took '2023.591064' ms. Plugin should use a background thread.
+2014-03-16 13:57:24.721 PictureFeed[44228:80b] Camera.getPicture: source type 1 not available.
+2014-03-16 13:57:25.972 PictureFeed[44228:80b] THREAD WARNING: ['Camera'] took '1250.494873' ms. Plugin should use a background thread.
+2014-03-16 13:58:14.012 PictureFeed[45588:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-16 13:58:14.022 PictureFeed[45588:80b] Unlimited access to network resources
+2014-03-16 13:58:14.047 PictureFeed[45588:80b] [CDVTimer][file] 0.769973ms
+2014-03-16 13:58:14.048 PictureFeed[45588:80b] [CDVTimer][TotalPluginStartup] 1.654029ms
+2014-03-16 13:58:14.296 PictureFeed[45588:80b] Resetting plugins due to page load.
+2014-03-16 13:58:14.493 PictureFeed[45588:80b] Finished load of: file:///Users/senthil/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/2B0C883B-2933-4719-AE5D-B4EC1C935E4E/PictureFeed.app/www/index.html
+2014-03-16 17:54:43.142 PictureFeed[1825:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-16 17:54:43.269 PictureFeed[1825:80b] Unlimited access to network resources
+2014-03-16 17:54:43.586 PictureFeed[1825:80b] [CDVTimer][file] 0.909984ms
+2014-03-16 17:54:43.587 PictureFeed[1825:80b] [CDVTimer][TotalPluginStartup] 1.413047ms
+2014-03-16 17:54:43.862 PictureFeed[1825:80b] Resetting plugins due to page load.
+2014-03-16 17:54:44.174 PictureFeed[1825:80b] Finished load of: file:///Users/senthil/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/2B0C883B-2933-4719-AE5D-B4EC1C935E4E/PictureFeed.app/www/index.html
+2014-03-16 17:58:33.827 PictureFeed[1825:80b] Camera.getPicture: source type 1 not available.
+2014-03-16 17:58:35.743 PictureFeed[1825:80b] THREAD WARNING: ['Camera'] took '1917.439941' ms. Plugin should use a background thread.
